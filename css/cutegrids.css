@@ -42,10 +42,11 @@
 
 /* Remove this if you want the columns to float left when they overflow the row */
 
+/*
 [class*='cute-']:last-of-type {
-  float: right;
+    float: right;
 }
-
+*/
 /* Clearfix */
 .row:after, .group:after, .clearfix:after {
   content: "";
